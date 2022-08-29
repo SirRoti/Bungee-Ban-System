@@ -1,0 +1,20 @@
+{
+    "env": {
+        "token": "",
+        "prefix": "!",
+        "extensions": [
+            "extensions.events.ready",
+            "extensions.events.log_commands",
+            "extensions.events.presence",
+            "extensions.events.verify_setup",
+            "extensions.events.role_manager"
+        ]
+    },
+    "ids": {
+        "guild_id": 111111111111111
+    },
+    "roles": {
+        "all": [111111111111111],
+        "Spieler": 11111111111111111
+    }
+}
