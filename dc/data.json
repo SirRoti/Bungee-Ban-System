@@ -3,9 +3,6 @@
         "token": "",
         "prefix": "!",
         "extensions": [
-            "extensions.events.ready",
-            "extensions.events.log_commands",
-            "extensions.events.presence",
             "extensions.events.verify_setup",
             "extensions.events.role_manager"
         ]
